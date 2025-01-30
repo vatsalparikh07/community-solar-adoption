@@ -1,8 +1,8 @@
-# Community Solar Adoption in Indiana🌞([Project Website](https://vatsalparikh.me/community-solar-adoption/))
+# Community Solar Adoption in Indiana 🌞
 
 Geospatial analysis platform identifying optimal community solar sites for tax-exempt organizations in Indiana. 
 
-## 📌 Project Overview
+## 📌 Project Overview ([Website](https://vatsalparikh.me/community-solar-adoption/))
 **Objective:** Identify and prioritize solar installation sites for tax-exempt organizations through data-driven analysis of:
 - Solar potential (Google Solar API)
 - Economic impact (Utility billing data)
