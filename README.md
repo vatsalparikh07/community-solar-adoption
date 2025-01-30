@@ -19,6 +19,9 @@ Geospatial analysis platform identifying optimal community solar sites for tax-e
 - 2,299 ton CO₂ reduction potential
 - 311 homes powered equivalent (Southridge HS site)
 
+![image](https://github.com/user-attachments/assets/40424f8d-b536-41e7-8bf5-418519e17cba)
+
+
 ## 📊 Core System Components
 
 ### 1. Geospatial Analysis Engine
@@ -28,6 +31,10 @@ Geospatial analysis platform identifying optimal community solar sites for tax-e
   - Municipal utility records  
   - DOE energy consumption patterns
   
+![image](https://github.com/user-attachments/assets/aacfaebd-e316-4d09-ba52-9585747f2571)
+![image](https://github.com/user-attachments/assets/e8433fab-2f52-4be7-b98b-4d59a21f3109)
+
+  
 ### 2. Interactive Mapping Interface
 | Feature | Description | Technologies |
 |---------|-------------|--------------|
@@ -36,12 +43,20 @@ Geospatial analysis platform identifying optimal community solar sites for tax-e
 | Cluster Markers | Site grouping by impact | MarkerCluster |
 | Filter Controls | Dynamic CO₂/power thresholds | Panel widgets |
 
+![image](https://github.com/user-attachments/assets/acad47d7-9a31-42ef-9486-f19e3a0d6f32)
+![image](https://github.com/user-attachments/assets/b647b42b-1ec3-4c45-9da1-05b1e349a40c)
+
+
 ### 3. Automated Reporting System
 **Report Components:**
 1. Municipal Summary Dashboard
 2. Site Comparison Matrices
 3. Energy Savings Projections
 4. Environmental Impact Visualizations
+
+![image](https://github.com/user-attachments/assets/2b3d3845-8c14-4dd0-a22c-a0b0e5785e8f)
+
+![image](https://github.com/user-attachments/assets/720bdb61-86a4-4b1c-a1a2-527352dc08d2)
 
 **Sample Output Metrics:**
 
