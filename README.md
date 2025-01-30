@@ -38,7 +38,7 @@ Geospatial analysis platform identifying optimal community solar sites for tax-e
 #### Parcel Information Table
 ![image](https://github.com/user-attachments/assets/e8433fab-2f52-4be7-b98b-4d59a21f3109)
 
-  
+
 ### 2. Interactive Mapping Interface
 | Feature | Description | Technologies |
 |---------|-------------|--------------|
@@ -87,17 +87,23 @@ Geospatial analysis platform identifying optimal community solar sites for tax-e
 
 ## 🔮 Future Development Roadmap
 
-1. **Energy Storage Analysis Module**  
-   Battery feasibility modeling for critical facilities
+1. **Evaluate similar sites for alternatives to Rooftop Solar**
+    - Ground mount
+    - Parking Canopies
+    - Geothermal
+    - Wind
 
-2. **Policy Impact Simulator**  
-   Legislative change scenario modeling
+2. **Incorporate Energy Storage Analysis**
 
-3. **Community Portal**  
-   Public-facing solar ROI calculator
-
-4. **Statewide Expansion**  
-   Scalable framework for Indiana-wide deployment
+    - Assess the potential impact of adding energy storage solutions like batteries to increase the utility of solar energy projects.
+  
+3. **Develop tool for assessing the Regulatory framework for community solar projects**
+   
+    - Show how local, state, and federal policies affect the feasibility and scalability of community solar projects.
+  
+4. **Create a searchable database of all relevant sites statewide with relevant data**
+   
+5. **Evaluate Sustainability and Environmental impact of these potential Solar Projects**
 
 ---
 
